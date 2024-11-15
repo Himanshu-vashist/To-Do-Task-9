@@ -1,0 +1,8 @@
+.header {
+    position: fixed;          /* Sticks the header to the top */
+    top: 0;                   /* Aligns it to the top */
+                     /* Starts from the left edge */
+    width: 100%;
+    z-index: 1000;            /* Ensures it stays above other content */
+}
+
